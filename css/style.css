@@ -7,7 +7,7 @@ body{
 	background-color: azure;
 }
 .shade{
-	width: 100%;
+	width: 375px;
 	height: 100%;
 	background-color: rgba(0,0,0,0.4);
 	position: fixed;
@@ -17,7 +17,7 @@ body{
 	display: none;
 }
 .input{
-	width: calc(100% - 20px);
+	width: 355px;
 	margin: 10px 10px;
 	padding-left: 10px;
 	height: 50px;
@@ -44,7 +44,7 @@ body{
 	color: white;
 }
 .weather .today{
-	width: calc(100% - 20px);
+	width: 355px;
 	height: 360px;
 	display: flex;
 	flex-wrap: wrap;
@@ -121,7 +121,7 @@ body{
 }
 .forecast{
 	height: 110px;
-	width: calc(100% - 20px);
+	width: 355px;
 	display: flex;
 	border-radius: 20px;
 	box-shadow: 0 5px 5px #ccc;
@@ -159,7 +159,7 @@ body{
 	text-align: center;
 }
 .lifestyle{
-	width: calc(100% - 20px);
+	width: 355px;
 	border-radius: 20px;
 	box-shadow: 0 5px 5px #ccc;
 	margin: 10px;
